@@ -1,6 +1,6 @@
 # Laravel with AngularJS
 
-This is a sample project to demonstrate integration for Laravel with AngularJS. Currently, this project uses Laravel v5.4 and AngularJS v1.6. I will try my best to keep it up with the latest versions and in future will upgrade to Angular v4+.
+This is a sample project to demonstrate integration for Laravel with AngularJS. Currently, this project uses Laravel v5.4 and AngularJS v1.6. I will try my best to keep it up to date with the latest versions and in future will upgrade to Angular v4+.
 
 Main files to look for are:
 Laravel
